@@ -1,0 +1,8 @@
+setup.py
+blscale_loader/__init__.py
+blscale_loader/io.py
+blscale_loader/loader.py
+blscale_loader.egg-info/PKG-INFO
+blscale_loader.egg-info/SOURCES.txt
+blscale_loader.egg-info/dependency_links.txt
+blscale_loader.egg-info/top_level.txt
